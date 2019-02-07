@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I Love games*
+_Like Hollow Knight_
+
+**I HATE THOSE THINGS I HAVE STANDARDS**
+__LIKE SPORTS!!!__
+
+_At least **I** like a good story_ 
